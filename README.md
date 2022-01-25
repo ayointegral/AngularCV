@@ -1,4 +1,6 @@
 <p align="center">
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/f3172bc8-1e34-4861-adf2-3478f91dc8db.svg?orgId=666444378491)](https://app.soluble.cloud/repos/details/github.com/ayoinc/angularcv?orgId=666444378491)  
   <img src="https://raw.githubusercontent.com/StegSchreck/AngularCV/master/src/assets/img/AngularCV.png" width="300px">
 </p>
 
