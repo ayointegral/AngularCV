@@ -7,5 +7,11 @@ pipeline {
       }
     }
 
+    stage('Start Init NPM') {
+      steps {
+        sh 'npm install'
+      }
+    }
+
   }
 }
